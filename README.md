@@ -57,7 +57,7 @@ We appreciate your feedback and contributions, which help in continuously improv
 
 ## Installation
 
-To install Sublime Government, simply extract the contents of the ZIP file into your `garrysmod/addons` folder and restart your server.
+To install Sublime Government, simply extract the contents of the ZIP file into your `garrysmod/addons` then rename the folder from `sublime-gov-main` to `sublime_gov` then restart your server.
 
 ## A Quick Note
 
