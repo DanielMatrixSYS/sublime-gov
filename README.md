@@ -2,8 +2,6 @@
 
 Sublime Government is an advanced government simulation system for Garry's Mod, specifically designed to enrich the governance and management aspect of role-playing in the DarkRP gamemode. This addon enables detailed management of taxes, law enforcement, and various other government functions. Please note, this is a fictional government system created for role-playing purposes within Garry's Mod and does not represent a real government system.
 
-### Please note, whilst the project has been recently released on github, the addon itself is 3, 5+ years old. The code standards back then were not as strict as it is today. The code standard I have today is not as bad as it was then. You have been warned.
-
 ## Features
 
 - **Tax Management:** Comprehensive handling of property, sales, and salary taxes.
@@ -67,3 +65,5 @@ Workshop content: https://steamcommunity.com/sharedfiles/filedetails/?id=1976896
 Sublime Government aims to enrich the role-play experience by providing detailed and comprehensive management tools for government roles in DarkRP. Your participation and feedback are crucial for the continuous enhancement of this addon.
 
 For any inquiries or support issues, please contact us. We are committed to providing support and addressing issues as efficiently as possible.
+
+The codebase, while functional, is quite old and is not up to par with todays standards. You're welcome to work on it and open up PR's.
